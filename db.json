@@ -1,0 +1,323 @@
+ [
+    {
+        "id": 1,
+        "title": "Box of Hijabs ",
+        "price": 1559,
+        "category" : "Box",
+        "image": "./image/boxnude.jpg",
+        "inCart": false,
+        "count" :1
+    },
+    { 
+        "id": 2,
+        "title": "Box of Hijabs",
+        "price": 5541,
+        "category" : "Box",
+        "image": "./image/moutarde.jpg",
+        "inCart": false,
+        "count" :1
+    },
+    {
+        "id": 3,
+        "title": " Box of Hijabs",
+        "price": 3224,
+        "category" : "Box",
+        "image": "./image/boxcouleur.jpg",
+        "inCart": false,
+        "count" :1
+    },
+
+    {
+        "id": 4,
+        "title": "Box of Hijabs",
+        "price": 2855,
+        "category" : "Box",
+        "image": "./image/rose.jpg",
+        "inCart": false,
+        "count" :1
+
+       
+
+       
+
+
+    },
+   
+
+    {
+
+        "id": 5,
+        "title": "Box of Hijabs",
+        "price": 223,
+        "category" : "Box",
+        "image": "./image/box1.jpg",
+        "inCart": false,
+        "count" :1
+
+
+
+    },
+
+    {
+
+        "id": 6,
+        "title": "Taqam of Salat",
+        "price": 223,
+        "category" : "Taqam",
+        "image": "./image/tapis.jpg",
+        "inCart": false,
+        "count" :1
+
+
+
+    },
+    {
+
+        "id": 7,
+        "title": "Burkini",
+        "price": 223,
+        "category" : "Burkini",
+        "image": "./image/burkini.jpg",
+        "inCart": false,
+        "count" :1
+
+    },
+    {
+
+        "id": 8,
+        "title": "  Box of Hijabs",
+        "price": 223,
+        "category" : "Box",
+        "image": "./image/maroon.jpg",
+        "inCart": false,
+        "count" :1
+
+
+
+    },
+    {
+
+        "id": 9,
+        "title": "Box of Hijabs",
+        "price": 2255,
+        "category" : "Box",
+        "image": "./image/moutarde.jpg",
+        "inCart": false,
+        "count" :1
+       
+       
+
+
+    },
+    
+
+    {
+
+        "id": 10,
+        "title": "Box of Hijabs",
+        "price": 223,
+        "category" : "Box",
+        "image": "./image/pack.jpg",
+        "inCart": false,
+        "count" :1
+       
+
+
+    },
+    {
+
+        "id": 11,
+        "title": " Burkini",
+        "price": 223,
+        "category" : "Burkini",
+        "image": "./image/burkini.jpg",
+        "inCart": false,
+        "count" :1
+        
+
+
+    },
+    {
+
+        "id": 12,
+        "title": "Accessories",
+        "price": 223,
+        "category" : "Broche",
+        "image": "./image/broche.jpg",
+        "inCart": false,
+        "count" :1
+
+
+    },
+    {
+
+        "id": 13,
+        "title": "ChouChou",
+        "price": 223,
+        "category" : "Accessories",
+        "image": "./image/chouchou.jpg",
+        "inCart": false,
+        "count" :1
+        
+
+    },
+    {
+
+        "id": 14,
+        "title": "Box of Hijabs",
+        "price": 223,
+        "category" : "Box",
+        "image": "./image/box.jpg",
+        "inCart": false,
+        "count" :1
+      
+
+    },
+    {
+
+        "id": 15,
+        "title": "Box of Hijabs",
+        "price": 223,
+        "category" : "Box",
+        "image": "./image/box.jpg",
+        "inCart": false,
+        "count" :1
+
+
+
+    },
+    {
+
+        "id": 16,
+        "title": "Bandana",
+        "price": 223,
+        "category" : "Accessories",
+        "image": "./image/bandana.jpg",
+        "inCart": false,
+        "count" :1
+      
+
+
+    },
+    
+    {
+
+        "id": 17,
+        
+        "title": "Sajada",
+        "price": 223,
+        "category" : "Taqam",
+        "image": "./image/tapis.jpg",
+        "inCart": false,
+        "count" :1
+
+
+    },
+    {
+
+        "id": 18,
+        "title": "  Bunch of Hijabs",
+        "price": 223,
+        "category" : "Bunch",
+        "image": "./image/bunchBB.jpg",
+        "inCart": false,
+        "count" :1
+
+
+    },
+    {
+
+        "id": 19,
+        "title": "  Bunch of Hijabs",
+        "price": 223,
+        "category" : "Buch",
+        "image": "./image/bunchVV.jpg",
+        "inCart": false,
+        "count" :1
+
+
+    },
+    {
+
+        "id": 20,
+        "title": "  Bunch of Hijabs",
+        "price": 223,
+        "category" : "Buch",
+        "image": "./image/bunchMV.jpg",
+        "inCart": false,
+        "count" :1
+
+
+    },
+    {
+
+        "id": 21,
+        "title": "  Bunch of Hijabs",
+        "price": 223,
+        "category" : "Buch",
+        "image": "./image/bunchRR.jpg",
+        "inCart": false,
+        "count" :1
+
+
+    },
+    {
+
+        "id": 22,
+        "title": "  Bunch of Hijabs",
+        "price": 223,
+        "category" : "Buch",
+        "image": "./image/bunchGR.jpg",
+        "inCart": false,
+        "count" :1
+
+
+    },
+    {
+
+        "id": 23,
+        "title": "  Bunch of Hijabs",
+        "price": 223,
+        "category" : "Buch",
+        "image": "./image/bunchRV.jpg",
+        "inCart": false,
+        "count" :1
+
+
+    },
+    {
+
+        "id": 24,
+        "title": "  Bunch of Hijabs",
+        "price": 223,
+        "category" : "Buch",
+        "image": "./image/bunchMB.jpg",
+        "inCart": false,
+        "count" :1
+
+
+    },
+    {
+
+        "id": 25,
+        "title": "  Bunch of Hijabs",
+        "price": 223,
+        "category" : "Buch",
+        "image": "./image/bunchVB.jpg",
+        "inCart": false,
+        "count" :1
+
+
+    }
+    
+    
+    
+    
+    
+    
+
+    
+
+]
+
+ 
