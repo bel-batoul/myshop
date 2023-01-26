@@ -5,17 +5,14 @@
         "price": 4550,
         "category" : "Box",
         "image": "./image/boxnude.jpg",
-        "inCart": false,
-        "count" :1
-    },
+     },
     { 
         "id": 2,
         "title": "Box of Hijabs",
         "price": 4550,
         "category" : "Box",
         "image": "./image/moutarde.jpg",
-        "inCart": false,
-        "count" :1
+       
     },
     {
         "id": 3,
@@ -23,8 +20,7 @@
         "price": 4550,
         "category" : "Box",
         "image": "./image/boxcouleur.jpg",
-        "inCart": false,
-        "count" :1
+        
     },
 
     {
@@ -33,9 +29,7 @@
         "price": 4550,
         "category" : "Box",
         "image": "./image/rose.jpg",
-        "inCart": false,
-        "count" :1
-
+        
        
 
        
@@ -51,8 +45,7 @@
         "price": 4550,
         "category" : "Box",
         "image": "./image/box1.jpg",
-        "inCart": false,
-        "count" :1
+       
 
 
 
@@ -65,9 +58,7 @@
         "price": 1500,
         "category" : "Taqam",
         "image": "./image/tapis.jpg",
-        "inCart": false,
-        "count" :1
-
+       
 
 
     },
@@ -78,8 +69,7 @@
         "price": 3600,
         "category" : "Burkini",
         "image": "./image/burkini.jpg",
-        "inCart": false,
-        "count" :1
+      
 
     },
     {
@@ -89,9 +79,7 @@
         "price": 4550,
         "category" : "Box",
         "image": "./image/maroon.jpg",
-        "inCart": false,
-        "count" :1
-
+       
 
 
     },
@@ -102,9 +90,7 @@
         "price": 4550,
         "category" : "Box",
         "image": "./image/moutarde.jpg",
-        "inCart": false,
-        "count" :1
-       
+   
        
 
 
@@ -118,8 +104,6 @@
         "price": 4550,
         "category" : "Box",
         "image": "./image/pack.jpg",
-        "inCart": false,
-        "count" :1
        
 
 
@@ -131,10 +115,7 @@
         "price": 3600,
         "category" : "Burkini",
         "image": "./image/burkini.jpg",
-        "inCart": false,
-        "count" :1
         
-
 
     },
     {
@@ -144,9 +125,7 @@
         "price": 2550,
         "category" : "Broche",
         "image": "./image/broche.jpg",
-        "inCart": false,
-        "count" :1
-
+       
 
     },
     {
@@ -156,10 +135,7 @@
         "price": 1500,
         "category" : "Accessories",
         "image": "./image/chouchou.jpg",
-        "inCart": false,
-        "count" :1
-        
-
+     
     },
     {
 
@@ -168,9 +144,7 @@
         "price": 4550,
         "category" : "Box",
         "image": "./image/box.jpg",
-        "inCart": false,
-        "count" :1
-      
+     
 
     },
     {
@@ -180,8 +154,7 @@
         "price": 4550,
         "category" : "Box",
         "image": "./image/box.jpg",
-        "inCart": false,
-        "count" :1
+      
 
 
 
@@ -193,9 +166,7 @@
         "price": 1500,
         "category" : "Accessories",
         "image": "./image/bandana.jpg",
-        "inCart": false,
-        "count" :1
-      
+     
 
 
     },
@@ -208,8 +179,7 @@
         "price": 1550,
         "category" : "Taqam",
         "image": "./image/tapis.jpg",
-        "inCart": false,
-        "count" :1
+      
 
 
     },
@@ -220,8 +190,7 @@
         "price": 3550,
         "category" : "Bunch",
         "image": "./image/bunchBB.jpg",
-        "inCart": false,
-        "count" :1
+       
 
 
     },
@@ -232,8 +201,7 @@
         "price": 3550,
         "category" : "Buch",
         "image": "./image/bunchVV.jpg",
-        "inCart": false,
-        "count" :1
+       
 
 
     },
@@ -244,9 +212,7 @@
         "price": 3550,
         "category" : "Buch",
         "image": "./image/bunchMV.jpg",
-        "inCart": false,
-        "count" :1
-
+      
 
     },
     {
@@ -256,8 +222,7 @@
         "price": 3550,
         "category" : "Buch",
         "image": "./image/bunchRR.jpg",
-        "inCart": false,
-        "count" :1
+    
 
 
     },
@@ -268,9 +233,7 @@
         "price": 3550,
         "category" : "Buch",
         "image": "./image/bunchGR.jpg",
-        "inCart": false,
-        "count" :1
-
+       
 
     },
     {
@@ -280,8 +243,7 @@
         "price": 3550,
         "category" : "Buch",
         "image": "./image/bunchRV.jpg",
-        "inCart": false,
-        "count" :1
+      
 
 
     },
@@ -292,8 +254,7 @@
         "price": 3550,
         "category" : "Buch",
         "image": "./image/bunchMB.jpg",
-        "inCart": false,
-        "count" :1
+      
 
 
     },
@@ -304,9 +265,7 @@
         "price": 3550,
         "category" : "Buch",
         "image": "./image/bunchVB.jpg",
-        "inCart": false,
-        "count" :1
-
+       
 
     }
     
